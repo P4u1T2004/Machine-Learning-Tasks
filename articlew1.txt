@@ -1,0 +1,68 @@
+Fighting inflation with flat-earth monetary policy
+15/06/2023
+ShareSharePin ItShare
+Blair Fix puts interest rates to the test in the treatment of inflation and raises a laugh.
+
+Advances in science almost invariably arise from questioning received wisdom — taking ideas that are “known” tobe true and seeing if they hold up to scrutiny.
+
+For example, the Earth was once “known” to be flat, and bloodletting was once “known” to cure illness. Both claims have since been abandoned — falsified by overwhelming evidence. And that makes me wonder, what ideas do we hold today that are seen to be true but are actually false?
+
+The notion that interest-rate hikes fight inflation fits the bill.
+
+While describing his use of interest-rate hikes to fight inflation, Federal reserve chairman Jerome Powell said this: “We have some ground to cover with interest rates before we get to that level that we think is sufficiently restrictive.”
+
+Policy makers “know” that raising interest rates reduces inflation. And yet the evidence for this “fact” is surprisingly thin.
+
+As Jerome Powell’s remarks illustrate, policy makers “know” that raising interest rates reduces inflation. And yet the evidence for this “fact” is surprisingly thin.
+
+The idea that interest-rate hikes fight inflation is relatively new. It was promoted by Milton Friedman in the 1950s and 1960s, but didn’t gain widespread acceptance until the 1980s. The shift in thinking was caused in large part by the actions of the then chair of the US Federal Reserve Paul Volcker. Faced with persistent inflation throughout the 1970s, Volcker decided to put Friedman’s ideas into action. In 1979, he hiked interest rates, hoping to reduce the supply of money and quell inflation. The policy — later called the Volcker shock — appeared to work. Within a few years, inflation was under control, Volcker was a hero, and rate hikes were ensconced as an essential (if not the only) tool for fighting inflation.
+
+Now, everyone agrees that after Volcker raised interest rates, US inflation fell. The problem is that by itself, this fact tells us nothing about what caused it to fall.
+
+Zooming out a bit, what’s important is that Volcker’s rate hikes were not an anomaly. Instead, they fit into a long-term pattern: when inflation rears its head, creditors respond by hiking the rate of interest.
+
+If you’re confused, it’s because you’re not thinking like an economist.
+
+The long-term pattern in the US is known as the Fisher effect, named after the economist Irving Fisher who discovered it in 1907 (see figure 1). According to Fisher, the connection between inflation and interest-rate hikes was easy to explain. As a response to inflation, creditors attempt to bolster their income by raising interest rates – the rate hikes have nothing to do with managing inflation (that idea came much later).
+
+
+Figure 1: In the US, Bond yields – a proxy for interest rates – rise and fall with inflation.
+As it turns out, the Fisher effect is a universal pattern found in many counties. And that’s a bit weird. Let’s put it this way. When the Earth’s temperature rises and falls with the concentration of atmospheric carbon dioxide, most scientists conclude that carbon dioxide up-regulates temperature. And yet with the Fisher effect, we’re supposed to stare at the positive coupling between inflation and interest rates and conclude that interest rates down-regulate inflation (I recently pointed out this incongruity in economists’ thinking to be greeted with swift vitriol.)
+
+If you’re confused, it’s because you’re not thinking like an economist. The sad truth is that economists frequently adopt methods that wouldn’t pass the laugh test in other areas of science.
+
+Speaking of the laugh test, let’s return to Milton Friedman. Aware of the Fisher effect, Friedman argued that this pattern is not what it seems. Yes, interest rates rise and fall with inflation. But despite this evidence, Friedman maintained that interest rates still down-regulated inflation. It’s just that the effect of monetary policy comes with a lag that is “long and variable”.
+
+Cue laughs. Seriously, this is language we expect from a soothsayer, not a scientist. Still, let’s humour the long-and-variable lag idea.
+
+According to Friedman, the effect of today’s interest-rate hike is visible sometime in the future. Now the exact delay is unknown. But let’s suppose it is a year. Sure enough, when we crunch the numbers, we find that rate hikes today correspond with a drop in next year’s inflation.
+
+Friedman is vindicated!
+
+While many economists are convinced by this type of lagged analysis, it evokes a basic logical fallacy: precedence is not causation.
+
+To see the problem, let’s use an absurd example. Every time I go to bed, I find that the sun rises eight hours later. I conclude that my sleep policy causes the dawn.
+
+Now what’s interesting is not the fact that I’m wrong. (That’s obvious.) What’s important is that despite a complete lack of causation, my sleep habits actually predict the future state of daylight. How does that work?
+
+The answer has two parts. First, the sun rises and falls with a regular cycle. Second, I’ve aligned my sleep habits to this cycle. And because of this alignment, my bedtime predicts the future state of the sun, despite playing no causal role.
+
+In more general terms, this prediction without causation is a core feature of cyclical data. If A is cyclical and B covaries with A, then B will predict the future state of A.
+
+The lesson here is that when data is highly cyclical, we can easily use lags to invert a correlation, turning a positive coupling into a negative one. Given this flexibility, we need a method to avoid deluding ourselves.
+
+Here’s a poignant example. Like interest rates, wage growth rises and falls with inflation. The obvious conclusion is that either wage growth drives inflation, or inflation drives wage growth. What’s not obvious is that if we lag this data, we can show that wages down-regulate inflation. You heard that right. Today’s wage hikes predict a decline in next year’s inflation. So by Friedman’s lag logic, we ought to fight inflation by giving workers a raise.
+
+The lesson here is that when data is highly cyclical, we can easily use lags to invert a correlation, turning a positive coupling into a negative one. Given this flexibility, we need a method to avoid deluding ourselves.
+
+Here’s a simple approach: judge a lagged correlation against what statisticians call auto-correlation — the ability of a time series to predict itself. To be considered causal, an observed effect must trump this auto-correlation.
+
+Let’s apply this method to my bedtime example. We know that my sleep habits predict the dawn. But for this evidence to be compelling, my sleep habits must predict the dawn better than the dawn predicts itself. And that seems unlikely. Because the Earth rotates with extreme regularity, the cycles of daylight predict themselves with far more accuracy than my bedtime ever could. So we can rule out the idea that my sleep habits cause the dawn.
+
+Now let’s apply this method to inflation. If interest rates down-regulate inflation, they must predict future inflation better than inflation predicts itself. Of course, it sounds odd to say that inflation predicts itself. But what we’re talking about is cyclical behaviour. Why is inflation cyclical? A plausible reason is that inflation is a self-limiting strategy. When businesses raise prices faster than wages, they erode their future income (as workers cut spending to mitigate their declining purchasing power). So unless inflation leads to the dreaded wage-price spiral (which is rare), bouts of inflation will be periodic and if it rises and falls over regular intervals, it will predict its future state.
+
+Looking at a broad sample of countries, I’ve found that interest rates come up short (see figure 2). Inflation has a significant auto-correlation — what I call the “anything-goes” effect. If inflation rises today and we do anything to treat it, inflation will likely fall next year. Is it magic? No. It means that inflation is overwhelmingly cyclical.
+
+
+Figure 2: comparing the interest-rate “treatment” to inflation’s effect on itself — the “anything-goes” effect.
+Here’s the crucial part. Since interest rates rise and fall with inflation (the Fisher effect), rate hikes today predict that next-year’s inflation will fall (red curve in Fig. 2). But what matters is that this prediction is no better than the “anything-goes” effect — the relation between inflation and the lagged version of itself. (In some cases, raising interest rates seems to make inflation worse.)
