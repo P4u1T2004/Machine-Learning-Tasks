@@ -58,15 +58,6 @@ Face's infrastructure isn't open-source,   though user-uploaded models and dat
 Continuation: 
   Hugging Face has truly 
 revolutionized the AI landscape. 
-
-
-
-
-proj-VN5FdztuEJOe1akoQaKbMaWimK2GEsjFsFX-d3tGz3AXEFyf_3SWDUfgZgzd-QiR_ywMPWlxuw
-
-
-
-
   It's a thriving ecosystem that's making 
 AI more accessible, collaborative,   and innovative than ever before.
 Now, let's recap the key points   we've covered in this video:
@@ -77,7 +68,6 @@ Now, let's recap the key points   we've covered in this video:
 * And finally, Hugging Face has become a major   player in the AI community-now 
 valued at over $4.5 billion.
   Thank you for watching this 
-T3BlbkFJfO10RP-N7ZGe_8QbN4W8mQy8gBNOb3xvVvWlJFQXHxTYp0a4IvtxYW4qH1LWqG23vh4vQuNQIA
 video on Hugging Face. 
   If you have found this content helpful, please 
 like, subscribe, and follow for more on data   science, AI, and machine learning.
